@@ -1,0 +1,2241 @@
+invoiceID	trackid	quantity	invoicedate	firstname	lastname	country	email
+98	3247	1	3/11/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+98	3248	1	3/11/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+121	447	1	6/13/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+121	449	1	6/13/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+121	451	1	6/13/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+121	453	1	6/13/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+143	1153	1	9/15/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+143	1157	1	9/15/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+143	1161	1	9/15/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+143	1165	1	9/15/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+143	1169	1	9/15/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+143	1173	2	9/15/2010	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+195	2991	1	5/6/2011	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+316	3436	1	10/27/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+316	3438	1	10/27/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	262	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	271	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	280	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	289	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	298	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	307	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	316	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	325	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	334	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	343	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	352	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	361	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	370	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+327	379	1	12/7/2012	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+382	2061	1	8/7/2013	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+382	2067	1	8/7/2013	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+382	2073	1	8/7/2013	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+382	2079	1	8/7/2013	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+382	2085	1	8/7/2013	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+382	2091	1	8/7/2013	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+382	2097	1	8/7/2013	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+382	2103	1	8/7/2013	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+382	2109	1	8/7/2013	Luís	Gonçalves	Brazil	luisg@embraer.com.br
+1	2	1	1/1/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+1	4	1	1/1/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	331	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	340	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	349	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	358	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	367	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	376	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	385	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	394	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	403	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	412	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	421	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	430	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	439	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+12	448	1	2/11/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+67	2130	1	10/12/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+67	2136	1	10/12/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+67	2142	1	10/12/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+67	2148	1	10/12/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+67	2154	1	10/12/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+67	2160	1	10/12/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+67	2166	1	10/12/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+67	2172	1	10/12/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+67	2178	1	10/12/2009	Leonie	Köhler	Germany	leonekohler@surfeu.de
+196	2992	1	5/19/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+196	2993	1	5/19/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+219	192	1	8/21/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+219	194	1	8/21/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+219	196	1	8/21/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+219	198	1	8/21/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+241	898	1	11/23/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+241	902	2	11/23/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+241	906	1	11/23/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+241	910	1	11/23/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+241	914	1	11/23/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+241	918	1	11/23/2011	Leonie	Köhler	Germany	leonekohler@surfeu.de
+293	2736	1	7/13/2012	Leonie	Köhler	Germany	leonekohler@surfeu.de
+99	3250	1	3/11/2010	François	Tremblay	Canada	ftremblay@gmail.com
+99	3252	1	3/11/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	76	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	85	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	94	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	103	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	112	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	121	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	130	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	139	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	148	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	157	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	166	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	175	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	184	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+110	193	1	4/21/2010	François	Tremblay	Canada	ftremblay@gmail.com
+165	1875	1	12/20/2010	François	Tremblay	Canada	ftremblay@gmail.com
+165	1881	1	12/20/2010	François	Tremblay	Canada	ftremblay@gmail.com
+165	1887	1	12/20/2010	François	Tremblay	Canada	ftremblay@gmail.com
+165	1893	1	12/20/2010	François	Tremblay	Canada	ftremblay@gmail.com
+165	1899	1	12/20/2010	François	Tremblay	Canada	ftremblay@gmail.com
+165	1905	1	12/20/2010	François	Tremblay	Canada	ftremblay@gmail.com
+165	1911	1	12/20/2010	François	Tremblay	Canada	ftremblay@gmail.com
+165	1917	1	12/20/2010	François	Tremblay	Canada	ftremblay@gmail.com
+165	1923	1	12/20/2010	François	Tremblay	Canada	ftremblay@gmail.com
+294	2737	1	7/26/2012	François	Tremblay	Canada	ftremblay@gmail.com
+294	2738	1	7/26/2012	François	Tremblay	Canada	ftremblay@gmail.com
+317	3440	1	10/28/2012	François	Tremblay	Canada	ftremblay@gmail.com
+317	3442	1	10/28/2012	François	Tremblay	Canada	ftremblay@gmail.com
+317	3444	1	10/28/2012	François	Tremblay	Canada	ftremblay@gmail.com
+317	3446	1	10/28/2012	François	Tremblay	Canada	ftremblay@gmail.com
+339	643	1	1/30/2013	François	Tremblay	Canada	ftremblay@gmail.com
+339	647	1	1/30/2013	François	Tremblay	Canada	ftremblay@gmail.com
+339	651	1	1/30/2013	François	Tremblay	Canada	ftremblay@gmail.com
+339	655	1	1/30/2013	François	Tremblay	Canada	ftremblay@gmail.com
+339	659	1	1/30/2013	François	Tremblay	Canada	ftremblay@gmail.com
+339	663	1	1/30/2013	François	Tremblay	Canada	ftremblay@gmail.com
+391	2481	1	9/20/2013	François	Tremblay	Canada	ftremblay@gmail.com
+2	6	1	1/2/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+2	8	1	1/2/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+2	10	1	1/2/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+2	12	1	1/2/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+24	712	1	4/6/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+24	716	1	4/6/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+24	720	1	4/6/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+24	724	1	4/6/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+24	728	1	4/6/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+24	732	1	4/6/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+76	2550	1	11/25/2009	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+197	2995	1	5/19/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+197	2997	1	5/19/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3324	2	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3333	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3342	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3351	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3360	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3369	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3378	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3387	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3396	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3405	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3414	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3423	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3432	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+208	3441	1	6/29/2011	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+263	1620	1	2/27/2012	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+263	1626	1	2/27/2012	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+263	1632	1	2/27/2012	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+263	1638	1	2/27/2012	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+263	1644	1	2/27/2012	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+263	1650	1	2/27/2012	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+263	1656	1	2/27/2012	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+263	1662	1	2/27/2012	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+263	1668	1	2/27/2012	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+392	2482	1	10/3/2013	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+392	2483	1	10/3/2013	Bjørn	Hansen	Norway	bjorn.hansen@yahoo.no
+77	2551	1	12/8/2009	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+77	2552	1	12/8/2009	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+100	3254	1	3/12/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+100	3256	1	3/12/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+100	3258	1	3/12/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+100	3260	1	3/12/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+122	457	1	6/14/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+122	461	1	6/14/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+122	465	1	6/14/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+122	469	1	6/14/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+122	473	1	6/14/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+122	477	1	6/14/2010	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+174	2295	1	2/2/2011	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+295	2740	1	7/26/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+295	2742	1	7/26/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3069	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3078	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3087	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3096	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3105	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3114	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3123	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3132	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3141	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3150	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3159	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3168	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3177	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+306	3186	1	9/5/2012	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+361	1365	1	5/6/2013	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+361	1371	1	5/6/2013	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+361	1377	1	5/6/2013	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+361	1383	1	5/6/2013	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+361	1389	1	5/6/2013	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+361	1395	1	5/6/2013	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+361	1401	1	5/6/2013	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+361	1407	1	5/6/2013	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+361	1413	1	5/6/2013	František	Wichterlová	Czech Republic	frantisekw@jetbrains.com
+46	1434	1	7/11/2009	Helena	Holý	Czech Republic	hholy@gmail.com
+46	1440	1	7/11/2009	Helena	Holý	Czech Republic	hholy@gmail.com
+46	1446	1	7/11/2009	Helena	Holý	Czech Republic	hholy@gmail.com
+46	1452	1	7/11/2009	Helena	Holý	Czech Republic	hholy@gmail.com
+46	1458	1	7/11/2009	Helena	Holý	Czech Republic	hholy@gmail.com
+46	1464	1	7/11/2009	Helena	Holý	Czech Republic	hholy@gmail.com
+46	1470	1	7/11/2009	Helena	Holý	Czech Republic	hholy@gmail.com
+46	1476	1	7/11/2009	Helena	Holý	Czech Republic	hholy@gmail.com
+46	1482	1	7/11/2009	Helena	Holý	Czech Republic	hholy@gmail.com
+175	2296	1	2/15/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+175	2297	1	2/15/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+198	2999	1	5/20/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+198	3001	1	5/20/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+198	3003	1	5/20/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+198	3005	1	5/20/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+220	202	1	8/22/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+220	206	1	8/22/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+220	210	1	8/22/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+220	214	1	8/22/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+220	218	1	8/22/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+220	222	1	8/22/2011	Helena	Holý	Czech Republic	hholy@gmail.com
+272	2040	1	4/11/2012	Helena	Holý	Czech Republic	hholy@gmail.com
+393	2485	1	10/3/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+393	2487	1	10/3/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2814	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2823	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2832	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2841	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2850	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2859	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2868	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2877	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2886	2	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2895	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2904	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2913	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2922	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+404	2931	1	11/13/2013	Helena	Holý	Czech Republic	hholy@gmail.com
+78	2554	1	12/8/2009	Astrid	Gruber	Austria	astrid.gruber@apple.at
+78	2556	1	12/8/2009	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2883	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2892	uno	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2901	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2910	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2919	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2928	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2937	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2946	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2955	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2964	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2973	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2982	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	2991	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+89	3000	1	1/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+144	1179	1	9/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+144	1185	1	9/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+144	1191	1	9/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+144	1197	1	9/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+144	1203	1	9/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+144	1209	1	9/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+144	1215	1	9/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+144	1221	1	9/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+144	1227	1	9/18/2010	Astrid	Gruber	Austria	astrid.gruber@apple.at
+273	2041	1	4/24/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+273	2042	1	4/24/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+296	2744	1	7/27/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+296	2746	uno	7/27/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+296	2748	1	7/27/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+296	2750	1	7/27/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+318	3450	1	10/29/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+318	3454	1	10/29/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+318	3458	1	10/29/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+318	3462	1	10/29/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+318	3466	1	10/29/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+318	3470	1	10/29/2012	Astrid	Gruber	Austria	astrid.gruber@apple.at
+370	1785	1	6/19/2013	Astrid	Gruber	Austria	astrid.gruber@apple.at
+3	16	1	1/3/2009	Daan	Peeters	Belgium	daan_peeters@apple.be
+3	20	1	1/3/2009	Daan	Peeters	Belgium	daan_peeters@apple.be
+3	24	1	1/3/2009	Daan	Peeters	Belgium	daan_peeters@apple.be
+3	28	1	1/3/2009	Daan	Peeters	Belgium	daan_peeters@apple.be
+3	32	1	1/3/2009	Daan	Peeters	Belgium	daan_peeters@apple.be
+3	36	1	1/3/2009	Daan	Peeters	Belgium	daan_peeters@apple.be
+55	1854	1	8/24/2009	Daan	Peeters	Belgium	daan_peeters@apple.be
+176	2299	1	2/15/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+176	2301	eins	2/15/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2628	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2637	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2646	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2655	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2664	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2673	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2682	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2691	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2700	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2709	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2718	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2727	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2736	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+187	2745	1	3/28/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+242	924	1	11/26/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+242	930	1	11/26/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+242	936	1	11/26/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+242	942	1	11/26/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+242	948	1	11/26/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+242	954	1	11/26/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+242	960	1	11/26/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+242	966	1	11/26/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+242	972	1	11/26/2011	Daan	Peeters	Belgium	daan_peeters@apple.be
+371	1786	1	7/2/2013	Daan	Peeters	Belgium	daan_peeters@apple.be
+371	1787	1	7/2/2013	Daan	Peeters	Belgium	daan_peeters@apple.be
+394	2489	1	10/4/2013	Daan	Peeters	Belgium	daan_peeters@apple.be
+394	2491	one	10/4/2013	Daan	Peeters	Belgium	daan_peeters@apple.be
+394	2493	1	10/4/2013	Daan	Peeters	Belgium	daan_peeters@apple.be
+394	2495	1	10/4/2013	Daan	Peeters	Belgium	daan_peeters@apple.be
+56	1855	1	9/6/2009	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+56	1856	1	9/6/2009	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+79	2558	1	12/9/2009	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+79	2560	1	12/9/2009	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+79	2562	1	12/9/2009	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+79	2564	1	12/9/2009	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+101	3264	1	3/13/2010	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+101	3268	1	3/13/2010	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+101	3272	1	3/13/2010	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+101	3276	1	3/13/2010	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+101	3280	1	3/13/2010	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+101	3284	1	3/13/2010	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+153	1599	1	11/1/2010	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+274	2044	1	4/24/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+274	2046	1	4/24/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2373	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2382	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2391	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2400	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2409	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2418	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2427	one	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2436	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2445	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2454	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2463	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2472	2	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2481	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+285	2490	1	6/4/2012	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+340	669	1	2/2/2013	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+340	675	1	2/2/2013	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+340	681	1	2/2/2013	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+340	687	1	2/2/2013	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+340	693	1	2/2/2013	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+340	699	1	2/2/2013	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+340	705	1	2/2/2013	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+340	711	1	2/2/2013	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+340	717	1	2/2/2013	Kara	Nielsen	Denmark	kara.nielsen@jubii.dk
+25	738	1	4/9/2009	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+25	744	1	4/9/2009	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+25	750	1	4/9/2009	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+25	756	1	4/9/2009	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+25	762	1	4/9/2009	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+25	768	1	4/9/2009	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+25	774	1	4/9/2009	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+25	780	1	4/9/2009	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+25	786	1	4/9/2009	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+154	1600	1	11/14/2010	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+154	1601	1	11/14/2010	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+177	2303	1	2/16/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+177	2305	1	2/16/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+177	2307	1	2/16/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+177	2309	1	2/16/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+199	3009	1	5/21/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+199	3013	1	5/21/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+199	3017	1	5/21/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+199	3021	1	5/21/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+199	3025	1	5/21/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+199	3029	1	5/21/2011	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+251	1344	1	1/9/2012	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+372	1789	1	7/2/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+372	1791	1	7/2/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2118	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2127	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2136	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2145	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2154	eins	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2163	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2172	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2181	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2190	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2199	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2208	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2217	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2226	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+383	2235	1	8/12/2013	Eduardo	Martins	Brazil	eduardo@woodstock.com.br
+57	1858	1	9/6/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+57	1860	1	9/6/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2187	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2196	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2205	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2214	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2223	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2232	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2241	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2250	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2259	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2268	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2277	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2286	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2295	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+68	2304	1	10/17/2009	Alexandre	Rocha	Brazil	alero@uol.com.br
+123	483	1	6/17/2010	Alexandre	Rocha	Brazil	alero@uol.com.br
+123	489	1	6/17/2010	Alexandre	Rocha	Brazil	alero@uol.com.br
+123	495	1	6/17/2010	Alexandre	Rocha	Brazil	alero@uol.com.br
+123	501	1	6/17/2010	Alexandre	Rocha	Brazil	alero@uol.com.br
+123	507	1	6/17/2010	Alexandre	Rocha	Brazil	alero@uol.com.br
+123	513	1	6/17/2010	Alexandre	Rocha	Brazil	alero@uol.com.br
+123	519	1	6/17/2010	Alexandre	Rocha	Brazil	alero@uol.com.br
+123	525	1	6/17/2010	Alexandre	Rocha	Brazil	alero@uol.com.br
+123	531	1	6/17/2010	Alexandre	Rocha	Brazil	alero@uol.com.br
+252	1345	1	1/22/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+252	1346	1	1/22/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+275	2048	1	4/25/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+275	2050	1	4/25/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+275	2052	1	4/25/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+275	2054	1	4/25/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+297	2754	1	7/28/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+297	2758	1	7/28/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+297	2762	1	7/28/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+297	2766	1	7/28/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+297	2770	one	7/28/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+297	2774	1	7/28/2012	Alexandre	Rocha	Brazil	alero@uol.com.br
+349	1089	1	3/18/2013	Alexandre	Rocha	Brazil	alero@uol.com.br
+34	1158	1	5/23/2009	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+155	1603	1	11/14/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+155	1605	1	11/14/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	1932	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	1941	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	1950	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	1959	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	1968	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	1977	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	1986	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	1995	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	2004	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	2013	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	2022	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	2031	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	2040	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+166	2049	1	12/25/2010	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+221	228	1	8/25/2011	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+221	234	1	8/25/2011	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+221	240	1	8/25/2011	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+221	246	1	8/25/2011	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+221	252	1	8/25/2011	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+221	258	1	8/25/2011	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+221	264	1	8/25/2011	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+221	270	1	8/25/2011	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+221	276	1	8/25/2011	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+350	1090	1	3/31/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+350	1091	1	3/31/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+373	1793	1	7/3/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+373	1795	1	7/3/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+373	1797	1	7/3/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+373	1799	1	7/3/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+395	2499	1	10/5/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+395	2503	1	10/5/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+395	2507	1	10/5/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+395	2511	1	10/5/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+395	2515	1	10/5/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+395	2519	1	10/5/2013	Roberto	Almeida	Brazil	roberto.almeida@riotur.gov.br
+35	1159	1	6/5/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+35	1160	1	6/5/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+58	1862	1	9/7/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+58	1864	1	9/7/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+58	1866	1	9/7/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+58	1868	1	9/7/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+80	2568	1	12/10/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+80	2572	1	12/10/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+80	2576	1	12/10/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+80	2580	1	12/10/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+80	2584	1	12/10/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+80	2588	1	12/10/2009	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+132	903	1	7/31/2010	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+253	1348	1	1/22/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+253	1350	1	1/22/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1677	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1686	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1695	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1704	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1713	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1722	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1731	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1740	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1749	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1758	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1767	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1776	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1785	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+264	1794	1	3/3/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+319	3476	1	11/1/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+319	3482	1	11/1/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+319	3488	1	11/1/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+319	3494	1	11/1/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+319	3500	1	11/1/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+319	3	1	11/1/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+319	9	1	11/1/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+319	15	1	11/1/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+319	21	1	11/1/2012	Fernanda	Ramos	Brazil	fernadaramos4@uol.com.br
+4	42	1	1/6/2009	Mark	Philips	Canada	mphilips12@shaw.ca
+4	48	1	1/6/2009	Mark	Philips	Canada	mphilips12@shaw.ca
+4	54	1	1/6/2009	Mark	Philips	Canada	mphilips12@shaw.ca
+4	60	1	1/6/2009	Mark	Philips	Canada	mphilips12@shaw.ca
+4	66	1	1/6/2009	Mark	Philips	Canada	mphilips12@shaw.ca
+4	72	1	1/6/2009	Mark	Philips	Canada	mphilips12@shaw.ca
+4	78	1	1/6/2009	Mark	Philips	Canada	mphilips12@shaw.ca
+4	84	1	1/6/2009	Mark	Philips	Canada	mphilips12@shaw.ca
+4	90	1	1/6/2009	Mark	Philips	Canada	mphilips12@shaw.ca
+133	904	1	8/13/2010	Mark	Philips	Canada	mphilips12@shaw.ca
+133	905	1	8/13/2010	Mark	Philips	Canada	mphilips12@shaw.ca
+156	1607	1	11/15/2010	Mark	Philips	Canada	mphilips12@shaw.ca
+156	1609	1	11/15/2010	Mark	Philips	Canada	mphilips12@shaw.ca
+156	1611	1	11/15/2010	Mark	Philips	Canada	mphilips12@shaw.ca
+156	1613	1	11/15/2010	Mark	Philips	Canada	mphilips12@shaw.ca
+178	2313	1	2/17/2011	Mark	Philips	Canada	mphilips12@shaw.ca
+178	2317	1	2/17/2011	Mark	Philips	Canada	mphilips12@shaw.ca
+178	2321	1	2/17/2011	Mark	Philips	Canada	mphilips12@shaw.ca
+178	2325	1	2/17/2011	Mark	Philips	Canada	mphilips12@shaw.ca
+178	2329	1	2/17/2011	Mark	Philips	Canada	mphilips12@shaw.ca
+178	2333	1	2/17/2011	Mark	Philips	Canada	mphilips12@shaw.ca
+230	648	1	10/8/2011	Mark	Philips	Canada	mphilips12@shaw.ca
+351	1093	1	3/31/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+351	1095	1	3/31/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1422	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1431	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1440	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1449	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1458	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1467	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1476	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1485	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1494	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1503	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1512	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1521	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1530	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+362	1539	1	5/11/2013	Mark	Philips	Canada	mphilips12@shaw.ca
+36	1162	1	6/5/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+36	1164	1	6/5/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1491	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1500	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1509	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1518	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1527	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1536	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1545	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1554	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1563	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1572	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1581	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1590	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1599	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+47	1608	1	7/16/2009	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+102	3290	1	3/16/2010	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+102	3296	1	3/16/2010	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+102	3302	1	3/16/2010	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+102	3308	1	3/16/2010	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+102	3314	1	3/16/2010	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+102	3320	eins	3/16/2010	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+102	3326	1	3/16/2010	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+102	3332	1	3/16/2010	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+102	3338	1	3/16/2010	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+231	649	1	10/21/2011	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+231	650	1	10/21/2011	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+254	1352	1	1/23/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+254	1354	1	1/23/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+254	1356	1	1/23/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+254	1358	1	1/23/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+276	2058	1	4/26/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+276	2062	1	4/26/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+276	2066	1	4/26/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+276	2070	1	4/26/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+276	2074	1	4/26/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+276	2078	1	4/26/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+328	393	1	12/15/2012	Jennifer	Peterson	Canada	jenniferp@rogers.ca
+13	462	1	2/19/2009	Frank	Harris	USA	fharris@google.com
+134	907	1	8/13/2010	Frank	Harris	USA	fharris@google.com
+134	909	1	8/13/2010	Frank	Harris	USA	fharris@google.com
+145	1236	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1245	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1254	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1263	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1272	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1281	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1290	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1299	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1308	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1317	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1326	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1335	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1344	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+145	1353	1	9/23/2010	Frank	Harris	USA	fharris@google.com
+200	3035	1	5/24/2011	Frank	Harris	USA	fharris@google.com
+200	3041	1	5/24/2011	Frank	Harris	USA	fharris@google.com
+200	3047	1	5/24/2011	Frank	Harris	USA	fharris@google.com
+200	3053	1	5/24/2011	Frank	Harris	USA	fharris@google.com
+200	3059	1	5/24/2011	Frank	Harris	USA	fharris@google.com
+200	3065	1	5/24/2011	Frank	Harris	USA	fharris@google.com
+200	3071	1	5/24/2011	Frank	Harris	USA	fharris@google.com
+200	3077	1	5/24/2011	Frank	Harris	USA	fharris@google.com
+200	3083	1	5/24/2011	Frank	Harris	USA	fharris@google.com
+329	394	1	12/28/2012	Frank	Harris	USA	fharris@google.com
+329	395	1	12/28/2012	Frank	Harris	USA	fharris@google.com
+352	1097	1	4/1/2013	Frank	Harris	USA	fharris@google.com
+352	1099	1	4/1/2013	Frank	Harris	USA	fharris@google.com
+352	1101	1	4/1/2013	Frank	Harris	USA	fharris@google.com
+352	1103	1	4/1/2013	Frank	Harris	USA	fharris@google.com
+374	1803	1	7/4/2013	Frank	Harris	USA	fharris@google.com
+374	1807	1	7/4/2013	Frank	Harris	USA	fharris@google.com
+374	1811	1	7/4/2013	Frank	Harris	USA	fharris@google.com
+374	1815	1	7/4/2013	Frank	Harris	USA	fharris@google.com
+374	1819	1	7/4/2013	Frank	Harris	USA	fharris@google.com
+374	1823	1	7/4/2013	Frank	Harris	USA	fharris@google.com
+14	463	1	3/4/2009	Jack	Smith	USA	jacksmith@microsoft.com
+14	464	1	3/4/2009	Jack	Smith	USA	jacksmith@microsoft.com
+37	1166	1	6/6/2009	Jack	Smith	USA	jacksmith@microsoft.com
+37	1168	1	6/6/2009	Jack	Smith	USA	jacksmith@microsoft.com
+37	1170	1	6/6/2009	Jack	Smith	USA	jacksmith@microsoft.com
+37	1172	1	6/6/2009	Jack	Smith	USA	jacksmith@microsoft.com
+59	1872	1	9/8/2009	Jack	Smith	USA	jacksmith@microsoft.com
+59	1876	1	9/8/2009	Jack	Smith	USA	jacksmith@microsoft.com
+59	1880	1	9/8/2009	Jack	Smith	USA	jacksmith@microsoft.com
+59	1884	1	9/8/2009	Jack	Smith	USA	jacksmith@microsoft.com
+59	1888	1	9/8/2009	Jack	Smith	USA	jacksmith@microsoft.com
+59	1892	1	9/8/2009	Jack	Smith	USA	jacksmith@microsoft.com
+111	207	1	4/29/2010	Jack	Smith	USA	jacksmith@microsoft.com
+232	652	1	10/21/2011	Jack	Smith	USA	jacksmith@microsoft.com
+232	654	1	10/21/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	981	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	990	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	999	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1008	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1017	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1026	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1035	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1044	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1053	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1062	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1071	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1080	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1089	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+243	1098	1	12/1/2011	Jack	Smith	USA	jacksmith@microsoft.com
+298	2780	1	7/31/2012	Jack	Smith	USA	jacksmith@microsoft.com
+298	2786	1	7/31/2012	Jack	Smith	USA	jacksmith@microsoft.com
+298	2792	1	7/31/2012	Jack	Smith	USA	jacksmith@microsoft.com
+298	2798	1	7/31/2012	Jack	Smith	USA	jacksmith@microsoft.com
+298	2804	1	7/31/2012	Jack	Smith	USA	jacksmith@microsoft.com
+298	2810	1	7/31/2012	Jack	Smith	USA	jacksmith@microsoft.com
+298	2816	1	7/31/2012	Jack	Smith	USA	jacksmith@microsoft.com
+298	2822	1	7/31/2012	Jack	Smith	USA	jacksmith@microsoft.com
+298	2828	1	7/31/2012	Jack	Smith	USA	jacksmith@microsoft.com
+112	208	1	5/12/2010	Michelle	Brooks	USA	michelleb@aol.com
+112	209	1	5/12/2010	Michelle	Brooks	USA	michelleb@aol.com
+135	911	1	8/14/2010	Michelle	Brooks	USA	michelleb@aol.com
+135	913	1	8/14/2010	Michelle	Brooks	USA	michelleb@aol.com
+135	915	1	8/14/2010	Michelle	Brooks	USA	michelleb@aol.com
+135	917	1	8/14/2010	Michelle	Brooks	USA	michelleb@aol.com
+157	1617	1	11/16/2010	Michelle	Brooks	USA	michelleb@aol.com
+157	1621	1	11/16/2010	Michelle	Brooks	USA	michelleb@aol.com
+157	1625	1	11/16/2010	Michelle	Brooks	USA	michelleb@aol.com
+157	1629	1	11/16/2010	Michelle	Brooks	USA	michelleb@aol.com
+157	1633	1	11/16/2010	Michelle	Brooks	USA	michelleb@aol.com
+157	1637	1	11/16/2010	Michelle	Brooks	USA	michelleb@aol.com
+209	3455	uno	7/7/2011	Michelle	Brooks	USA	michelleb@aol.com
+330	397	1	12/28/2012	Michelle	Brooks	USA	michelleb@aol.com
+330	399	1	12/28/2012	Michelle	Brooks	USA	michelleb@aol.com
+341	726	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	735	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	744	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	753	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	762	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	771	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	780	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	789	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	798	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	807	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	816	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	825	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	834	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+341	843	1	2/7/2013	Michelle	Brooks	USA	michelleb@aol.com
+396	2525	1	10/8/2013	Michelle	Brooks	USA	michelleb@aol.com
+396	2531	1	10/8/2013	Michelle	Brooks	USA	michelleb@aol.com
+396	2537	1	10/8/2013	Michelle	Brooks	USA	michelleb@aol.com
+396	2543	1	10/8/2013	Michelle	Brooks	USA	michelleb@aol.com
+396	2549	1	10/8/2013	Michelle	Brooks	USA	michelleb@aol.com
+396	2555	1	10/8/2013	Michelle	Brooks	USA	michelleb@aol.com
+396	2561	1	10/8/2013	Michelle	Brooks	USA	michelleb@aol.com
+396	2567	1	10/8/2013	Michelle	Brooks	USA	michelleb@aol.com
+396	2573	1	10/8/2013	Michelle	Brooks	USA	michelleb@aol.com
+15	466	1	3/4/2009	Tim	Goyer	USA	tgoyer@apple.com
+15	468	1	3/4/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	795	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	804	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	813	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	822	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	831	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	840	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	849	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	858	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	867	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	876	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	885	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	894	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	903	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+26	912	1	4/14/2009	Tim	Goyer	USA	tgoyer@apple.com
+81	2594	1	12/13/2009	Tim	Goyer	USA	tgoyer@apple.com
+81	2600	1	12/13/2009	Tim	Goyer	USA	tgoyer@apple.com
+81	2606	1	12/13/2009	Tim	Goyer	USA	tgoyer@apple.com
+81	2612	1	12/13/2009	Tim	Goyer	USA	tgoyer@apple.com
+81	2618	1	12/13/2009	Tim	Goyer	USA	tgoyer@apple.com
+81	2624	1	12/13/2009	Tim	Goyer	USA	tgoyer@apple.com
+81	2630	1	12/13/2009	Tim	Goyer	USA	tgoyer@apple.com
+81	2636	1	12/13/2009	Tim	Goyer	USA	tgoyer@apple.com
+81	2642	1	12/13/2009	Tim	Goyer	USA	tgoyer@apple.com
+210	3456	1	7/20/2011	Tim	Goyer	USA	tgoyer@apple.com
+210	3457	1	7/20/2011	Tim	Goyer	USA	tgoyer@apple.com
+233	656	1	10/22/2011	Tim	Goyer	USA	tgoyer@apple.com
+233	658	1	10/22/2011	Tim	Goyer	USA	tgoyer@apple.com
+233	660	1	10/22/2011	Tim	Goyer	USA	tgoyer@apple.com
+233	662	1	10/22/2011	Tim	Goyer	USA	tgoyer@apple.com
+255	1362	1	1/24/2012	Tim	Goyer	USA	tgoyer@apple.com
+255	1366	1	1/24/2012	Tim	Goyer	USA	tgoyer@apple.com
+255	1370	1	1/24/2012	Tim	Goyer	USA	tgoyer@apple.com
+255	1374	1	1/24/2012	Tim	Goyer	USA	tgoyer@apple.com
+255	1378	1	1/24/2012	Tim	Goyer	USA	tgoyer@apple.com
+255	1382	1	1/24/2012	Tim	Goyer	USA	tgoyer@apple.com
+307	3200	1	9/13/2012	Tim	Goyer	USA	tgoyer@apple.com
+113	211	1	5/12/2010	Dan	Miller	USA	dmiller@comcast.com
+113	213	1	5/12/2010	Dan	Miller	USA	dmiller@comcast.com
+124	540	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	549	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	558	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	567	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	576	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	585	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	594	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	603	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	612	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	621	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	630	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	639	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	648	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+124	657	1	6/22/2010	Dan	Miller	USA	dmiller@comcast.com
+179	2339	1	2/20/2011	Dan	Miller	USA	dmiller@comcast.com
+179	2345	1	2/20/2011	Dan	Miller	USA	dmiller@comcast.com
+179	2351	1	2/20/2011	Dan	Miller	USA	dmiller@comcast.com
+179	2357	1	2/20/2011	Dan	Miller	USA	dmiller@comcast.com
+179	2363	1	2/20/2011	Dan	Miller	USA	dmiller@comcast.com
+179	2369	1	2/20/2011	Dan	Miller	USA	dmiller@comcast.com
+179	2375	1	2/20/2011	Dan	Miller	USA	dmiller@comcast.com
+179	2381	1	2/20/2011	Dan	Miller	USA	dmiller@comcast.com
+179	2387	1	2/20/2011	Dan	Miller	USA	dmiller@comcast.com
+308	3201	1	9/26/2012	Dan	Miller	USA	dmiller@comcast.com
+308	3202	1	9/26/2012	Dan	Miller	USA	dmiller@comcast.com
+331	401	1	12/29/2012	Dan	Miller	USA	dmiller@comcast.com
+331	403	1	12/29/2012	Dan	Miller	USA	dmiller@comcast.com
+331	405	1	12/29/2012	Dan	Miller	USA	dmiller@comcast.com
+331	407	1	12/29/2012	Dan	Miller	USA	dmiller@comcast.com
+353	1107	1	4/2/2013	Dan	Miller	USA	dmiller@comcast.com
+353	1111	1	4/2/2013	Dan	Miller	USA	dmiller@comcast.com
+353	1115	1	4/2/2013	Dan	Miller	USA	dmiller@comcast.com
+353	1119	1	4/2/2013	Dan	Miller	USA	dmiller@comcast.com
+353	1123	1	4/2/2013	Dan	Miller	USA	dmiller@comcast.com
+353	1127	1	4/2/2013	Dan	Miller	USA	dmiller@comcast.com
+405	2945	1	11/21/2013	Dan	Miller	USA	dmiller@comcast.com
+16	470	1	3/5/2009	Kathy	Chase	USA	kachase@hotmail.com
+16	472	1	3/5/2009	Kathy	Chase	USA	kachase@hotmail.com
+16	474	1	3/5/2009	Kathy	Chase	USA	kachase@hotmail.com
+16	476	1	3/5/2009	Kathy	Chase	USA	kachase@hotmail.com
+38	1176	1	6/7/2009	Kathy	Chase	USA	kachase@hotmail.com
+38	1180	1	6/7/2009	Kathy	Chase	USA	kachase@hotmail.com
+38	1184	1	6/7/2009	Kathy	Chase	USA	kachase@hotmail.com
+38	1188	1	6/7/2009	Kathy	Chase	USA	kachase@hotmail.com
+38	1192	1	6/7/2009	Kathy	Chase	USA	kachase@hotmail.com
+38	1196	1	6/7/2009	Kathy	Chase	USA	kachase@hotmail.com
+90	3014	1	1/26/2010	Kathy	Chase	USA	kachase@hotmail.com
+211	3459	1	7/20/2011	Kathy	Chase	USA	kachase@hotmail.com
+211	3461	1	7/20/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	285	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	294	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	303	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	312	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	321	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	330	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	339	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	348	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	357	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	366	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	375	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	384	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	393	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+222	402	1	8/30/2011	Kathy	Chase	USA	kachase@hotmail.com
+277	2084	uno	4/29/2012	Kathy	Chase	USA	kachase@hotmail.com
+277	2090	1	4/29/2012	Kathy	Chase	USA	kachase@hotmail.com
+277	2096	1	4/29/2012	Kathy	Chase	USA	kachase@hotmail.com
+277	2102	1	4/29/2012	Kathy	Chase	USA	kachase@hotmail.com
+277	2108	1	4/29/2012	Kathy	Chase	USA	kachase@hotmail.com
+277	2114	1	4/29/2012	Kathy	Chase	USA	kachase@hotmail.com
+277	2120	1	4/29/2012	Kathy	Chase	USA	kachase@hotmail.com
+277	2126	1	4/29/2012	Kathy	Chase	USA	kachase@hotmail.com
+277	2132	1	4/29/2012	Kathy	Chase	USA	kachase@hotmail.com
+406	2946	1	12/4/2013	Kathy	Chase	USA	kachase@hotmail.com
+406	2947	1	12/4/2013	Kathy	Chase	USA	kachase@hotmail.com
+91	3015	1	2/8/2010	Heather	Leacock	USA	hleacock@gmail.com
+91	3016	1	2/8/2010	Heather	Leacock	USA	hleacock@gmail.com
+114	215	1	5/13/2010	Heather	Leacock	USA	hleacock@gmail.com
+114	217	1	5/13/2010	Heather	Leacock	USA	hleacock@gmail.com
+114	219	1	5/13/2010	Heather	Leacock	USA	hleacock@gmail.com
+114	221	1	5/13/2010	Heather	Leacock	USA	hleacock@gmail.com
+136	921	1	8/15/2010	Heather	Leacock	USA	hleacock@gmail.com
+136	925	1	8/15/2010	Heather	Leacock	USA	hleacock@gmail.com
+136	929	1	8/15/2010	Heather	Leacock	USA	hleacock@gmail.com
+136	933	1	8/15/2010	Heather	Leacock	USA	hleacock@gmail.com
+136	937	1	8/15/2010	Heather	Leacock	USA	hleacock@gmail.com
+136	941	1	8/15/2010	Heather	Leacock	USA	hleacock@gmail.com
+188	2759	1	4/5/2011	Heather	Leacock	USA	hleacock@gmail.com
+309	3204	1	9/26/2012	Heather	Leacock	USA	hleacock@gmail.com
+309	3206	1	9/26/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	30	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	39	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	48	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	57	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	66	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	75	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	84	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	93	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	102	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	111	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	120	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	129	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	138	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+320	147	1	11/6/2012	Heather	Leacock	USA	hleacock@gmail.com
+375	1829	1	7/7/2013	Heather	Leacock	USA	hleacock@gmail.com
+375	1835	1	7/7/2013	Heather	Leacock	USA	hleacock@gmail.com
+375	1841	1	7/7/2013	Heather	Leacock	USA	hleacock@gmail.com
+375	1847	1	7/7/2013	Heather	Leacock	USA	hleacock@gmail.com
+375	1853	1	7/7/2013	Heather	Leacock	USA	hleacock@gmail.com
+375	1859	1	7/7/2013	Heather	Leacock	USA	hleacock@gmail.com
+375	1865	1	7/7/2013	Heather	Leacock	USA	hleacock@gmail.com
+375	1871	1	7/7/2013	Heather	Leacock	USA	hleacock@gmail.com
+375	1877	1	7/7/2013	Heather	Leacock	USA	hleacock@gmail.com
+5	99	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	108	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	117	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	126	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	135	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	144	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	153	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	162	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	171	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	180	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	189	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	198	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	207	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+5	216	1	1/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+60	1898	1	9/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+60	1904	1	9/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+60	1910	1	9/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+60	1916	1	9/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+60	1922	1	9/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+60	1928	1	9/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+60	1934	1	9/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+60	1940	1	9/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+60	1946	1	9/11/2009	John	Gordon	USA	johngordon22@yahoo.com
+189	2760	1	4/18/2011	John	Gordon	USA	johngordon22@yahoo.com
+189	2761	1	4/18/2011	John	Gordon	USA	johngordon22@yahoo.com
+212	3463	1	7/21/2011	John	Gordon	USA	johngordon22@yahoo.com
+212	3465	1	7/21/2011	John	Gordon	USA	johngordon22@yahoo.com
+212	3467	1	7/21/2011	John	Gordon	USA	johngordon22@yahoo.com
+212	3469	1	7/21/2011	John	Gordon	USA	johngordon22@yahoo.com
+234	666	1	10/23/2011	John	Gordon	USA	johngordon22@yahoo.com
+234	670	1	10/23/2011	John	Gordon	USA	johngordon22@yahoo.com
+234	674	1	10/23/2011	John	Gordon	USA	johngordon22@yahoo.com
+234	678	1	10/23/2011	John	Gordon	USA	johngordon22@yahoo.com
+234	682	1	10/23/2011	John	Gordon	USA	johngordon22@yahoo.com
+234	686	1	10/23/2011	John	Gordon	USA	johngordon22@yahoo.com
+286	2504	1	6/12/2012	John	Gordon	USA	johngordon22@yahoo.com
+407	2949	1	12/4/2013	John	Gordon	USA	johngordon22@yahoo.com
+407	2951	1	12/4/2013	John	Gordon	USA	johngordon22@yahoo.com
+92	3018	1	2/8/2010	Frank	Ralston	USA	fralston@gmail.com
+92	3020	1	2/8/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3347	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3356	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3365	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3374	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3383	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3392	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3401	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3410	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3419	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3428	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3437	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3446	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3455	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+103	3464	1	3/21/2010	Frank	Ralston	USA	fralston@gmail.com
+158	1643	1	11/19/2010	Frank	Ralston	USA	fralston@gmail.com
+158	1649	1	11/19/2010	Frank	Ralston	USA	fralston@gmail.com
+158	1655	1	11/19/2010	Frank	Ralston	USA	fralston@gmail.com
+158	1661	1	11/19/2010	Frank	Ralston	USA	fralston@gmail.com
+158	1667	1	11/19/2010	Frank	Ralston	USA	fralston@gmail.com
+158	1673	1	11/19/2010	Frank	Ralston	USA	fralston@gmail.com
+158	1679	1	11/19/2010	Frank	Ralston	USA	fralston@gmail.com
+158	1685	1	11/19/2010	Frank	Ralston	USA	fralston@gmail.com
+158	1691	1	11/19/2010	Frank	Ralston	USA	fralston@gmail.com
+287	2505	1	6/25/2012	Frank	Ralston	USA	fralston@gmail.com
+287	2506	1	6/25/2012	Frank	Ralston	USA	fralston@gmail.com
+310	3208	1	9/27/2012	Frank	Ralston	USA	fralston@gmail.com
+310	3210	1	9/27/2012	Frank	Ralston	USA	fralston@gmail.com
+310	3212	1	9/27/2012	Frank	Ralston	USA	fralston@gmail.com
+310	3214	1	9/27/2012	Frank	Ralston	USA	fralston@gmail.com
+332	411	1	12/30/2012	Frank	Ralston	USA	fralston@gmail.com
+332	415	1	12/30/2012	Frank	Ralston	USA	fralston@gmail.com
+332	419	1	12/30/2012	Frank	Ralston	USA	fralston@gmail.com
+332	423	1	12/30/2012	Frank	Ralston	USA	fralston@gmail.com
+332	427	1	12/30/2012	Frank	Ralston	USA	fralston@gmail.com
+332	431	1	12/30/2012	Frank	Ralston	USA	fralston@gmail.com
+384	2249	1	8/20/2013	Frank	Ralston	USA	fralston@gmail.com
+17	480	1	3/6/2009	Victor	Stevens	USA	vstevens@yahoo.com
+17	484	1	3/6/2009	Victor	Stevens	USA	vstevens@yahoo.com
+17	488	1	3/6/2009	Victor	Stevens	USA	vstevens@yahoo.com
+17	492	1	3/6/2009	Victor	Stevens	USA	vstevens@yahoo.com
+17	496	1	3/6/2009	Victor	Stevens	USA	vstevens@yahoo.com
+17	500	1	3/6/2009	Victor	Stevens	USA	vstevens@yahoo.com
+69	2318	1	10/25/2009	Victor	Stevens	USA	vstevens@yahoo.com
+190	2763	1	4/18/2011	Victor	Stevens	USA	vstevens@yahoo.com
+190	2765	1	4/18/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3092	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3101	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3110	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3119	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3128	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3137	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3146	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3155	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3164	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3173	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3182	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3191	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3200	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+201	3209	1	5/29/2011	Victor	Stevens	USA	vstevens@yahoo.com
+256	1388	1	1/27/2012	Victor	Stevens	USA	vstevens@yahoo.com
+256	1394	1	1/27/2012	Victor	Stevens	USA	vstevens@yahoo.com
+256	1400	1	1/27/2012	Victor	Stevens	USA	vstevens@yahoo.com
+256	1406	1	1/27/2012	Victor	Stevens	USA	vstevens@yahoo.com
+256	1412	1	1/27/2012	Victor	Stevens	USA	vstevens@yahoo.com
+256	1418	1	1/27/2012	Victor	Stevens	USA	vstevens@yahoo.com
+256	1424	1	1/27/2012	Victor	Stevens	USA	vstevens@yahoo.com
+256	1430	1	1/27/2012	Victor	Stevens	USA	vstevens@yahoo.com
+256	1436	1	1/27/2012	Victor	Stevens	USA	vstevens@yahoo.com
+385	2250	1	9/2/2013	Victor	Stevens	USA	vstevens@yahoo.com
+385	2251	1	9/2/2013	Victor	Stevens	USA	vstevens@yahoo.com
+408	2953	1	12/5/2013	Victor	Stevens	USA	vstevens@yahoo.com
+408	2955	1	12/5/2013	Victor	Stevens	USA	vstevens@yahoo.com
+408	2957	1	12/5/2013	Victor	Stevens	USA	vstevens@yahoo.com
+408	2959	1	12/5/2013	Victor	Stevens	USA	vstevens@yahoo.com
+70	2319	1	11/7/2009	Richard	Cunningham	USA	ricunningham@hotmail.com
+70	2320	1	11/7/2009	Richard	Cunningham	USA	ricunningham@hotmail.com
+93	3022	1	2/9/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+93	3024	1	2/9/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+93	3026	1	2/9/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+93	3028	1	2/9/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+115	225	1	5/14/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+115	229	1	5/14/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+115	233	1	5/14/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+115	237	1	5/14/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+115	241	1	5/14/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+115	245	1	5/14/2010	Richard	Cunningham	USA	ricunningham@hotmail.com
+167	2063	1	1/2/2011	Richard	Cunningham	USA	ricunningham@hotmail.com
+288	2508	1	6/25/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+288	2510	1	6/25/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2837	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2846	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2855	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2864	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2873	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2882	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2891	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2900	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2909	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2918	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2927	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2936	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2945	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+299	2954	1	8/5/2012	Richard	Cunningham	USA	ricunningham@hotmail.com
+354	1133	1	4/5/2013	Richard	Cunningham	USA	ricunningham@hotmail.com
+354	1139	1	4/5/2013	Richard	Cunningham	USA	ricunningham@hotmail.com
+354	1145	1	4/5/2013	Richard	Cunningham	USA	ricunningham@hotmail.com
+354	1151	1	4/5/2013	Richard	Cunningham	USA	ricunningham@hotmail.com
+354	1157	1	4/5/2013	Richard	Cunningham	USA	ricunningham@hotmail.com
+354	1163	1	4/5/2013	Richard	Cunningham	USA	ricunningham@hotmail.com
+354	1169	1	4/5/2013	Richard	Cunningham	USA	ricunningham@hotmail.com
+354	1175	1	4/5/2013	Richard	Cunningham	USA	ricunningham@hotmail.com
+354	1181	1	4/5/2013	Richard	Cunningham	USA	ricunningham@hotmail.com
+39	1202	1	6/10/2009	Patrick	Gray	USA	patrick.gray@aol.com
+39	1208	1	6/10/2009	Patrick	Gray	USA	patrick.gray@aol.com
+39	1214	1	6/10/2009	Patrick	Gray	USA	patrick.gray@aol.com
+39	1220	1	6/10/2009	Patrick	Gray	USA	patrick.gray@aol.com
+39	1226	1	6/10/2009	Patrick	Gray	USA	patrick.gray@aol.com
+39	1232	1	6/10/2009	Patrick	Gray	USA	patrick.gray@aol.com
+39	1238	1	6/10/2009	Patrick	Gray	USA	patrick.gray@aol.com
+39	1244	1	6/10/2009	Patrick	Gray	USA	patrick.gray@aol.com
+39	1250	1	6/10/2009	Patrick	Gray	USA	patrick.gray@aol.com
+168	2064	1	1/15/2011	Patrick	Gray	USA	patrick.gray@aol.com
+168	2065	1	1/15/2011	Patrick	Gray	USA	patrick.gray@aol.com
+191	2767	1	4/19/2011	Patrick	Gray	USA	patrick.gray@aol.com
+191	2769	1	4/19/2011	Patrick	Gray	USA	patrick.gray@aol.com
+191	2771	1	4/19/2011	Patrick	Gray	USA	patrick.gray@aol.com
+191	2773	1	4/19/2011	Patrick	Gray	USA	patrick.gray@aol.com
+213	3473	1	7/22/2011	Patrick	Gray	USA	patrick.gray@aol.com
+213	3477	1	7/22/2011	Patrick	Gray	USA	patrick.gray@aol.com
+213	3481	1	7/22/2011	Patrick	Gray	USA	patrick.gray@aol.com
+213	3485	1	7/22/2011	Patrick	Gray	USA	patrick.gray@aol.com
+213	3489	1	7/22/2011	Patrick	Gray	USA	patrick.gray@aol.com
+213	3493	1	7/22/2011	Patrick	Gray	USA	patrick.gray@aol.com
+265	1808	1	3/11/2012	Patrick	Gray	USA	patrick.gray@aol.com
+386	2253	1	9/2/2013	Patrick	Gray	USA	patrick.gray@aol.com
+386	2255	1	9/2/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2582	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2591	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2600	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2609	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2618	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2627	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2636	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2645	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2654	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2663	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2672	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2681	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2690	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+397	2699	1	10/13/2013	Patrick	Gray	USA	patrick.gray@aol.com
+71	2322	1	11/7/2009	Julia	Barnett	USA	jubarnett@gmail.com
+71	2324	1	11/7/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2651	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2660	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2669	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2678	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2687	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2696	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2705	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2714	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2723	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2732	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2741	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2750	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2759	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+82	2768	1	12/18/2009	Julia	Barnett	USA	jubarnett@gmail.com
+137	947	1	8/18/2010	Julia	Barnett	USA	jubarnett@gmail.com
+137	953	1	8/18/2010	Julia	Barnett	USA	jubarnett@gmail.com
+137	959	1	8/18/2010	Julia	Barnett	USA	jubarnett@gmail.com
+137	965	1	8/18/2010	Julia	Barnett	USA	jubarnett@gmail.com
+137	971	1	8/18/2010	Julia	Barnett	USA	jubarnett@gmail.com
+137	977	1	8/18/2010	Julia	Barnett	USA	jubarnett@gmail.com
+137	983	1	8/18/2010	Julia	Barnett	USA	jubarnett@gmail.com
+137	989	1	8/18/2010	Julia	Barnett	USA	jubarnett@gmail.com
+137	995	1	8/18/2010	Julia	Barnett	USA	jubarnett@gmail.com
+266	1809	1	3/24/2012	Julia	Barnett	USA	jubarnett@gmail.com
+266	1810	1	3/24/2012	Julia	Barnett	USA	jubarnett@gmail.com
+289	2512	1	6/26/2012	Julia	Barnett	USA	jubarnett@gmail.com
+289	2514	1	6/26/2012	Julia	Barnett	USA	jubarnett@gmail.com
+289	2516	1	6/26/2012	Julia	Barnett	USA	jubarnett@gmail.com
+289	2518	1	6/26/2012	Julia	Barnett	USA	jubarnett@gmail.com
+311	3218	1	9/28/2012	Julia	Barnett	USA	jubarnett@gmail.com
+311	3222	1	9/28/2012	Julia	Barnett	USA	jubarnett@gmail.com
+311	3226	1	9/28/2012	Julia	Barnett	USA	jubarnett@gmail.com
+311	3230	1	9/28/2012	Julia	Barnett	USA	jubarnett@gmail.com
+311	3234	1	9/28/2012	Julia	Barnett	USA	jubarnett@gmail.com
+311	3238	1	9/28/2012	Julia	Barnett	USA	jubarnett@gmail.com
+363	1553	1	5/19/2013	Julia	Barnett	USA	jubarnett@gmail.com
+48	1622	1	7/24/2009	Robert	Brown	Canada	robbrown@shaw.ca
+169	2067	1	1/15/2011	Robert	Brown	Canada	robbrown@shaw.ca
+169	2069	1	1/15/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2396	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2405	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2414	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2423	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2432	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2441	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2450	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2459	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2468	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2477	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2486	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2495	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2504	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+180	2513	1	2/25/2011	Robert	Brown	Canada	robbrown@shaw.ca
+235	692	1	10/26/2011	Robert	Brown	Canada	robbrown@shaw.ca
+235	698	1	10/26/2011	Robert	Brown	Canada	robbrown@shaw.ca
+235	704	1	10/26/2011	Robert	Brown	Canada	robbrown@shaw.ca
+235	710	1	10/26/2011	Robert	Brown	Canada	robbrown@shaw.ca
+235	716	1	10/26/2011	Robert	Brown	Canada	robbrown@shaw.ca
+235	722	1	10/26/2011	Robert	Brown	Canada	robbrown@shaw.ca
+235	728	1	10/26/2011	Robert	Brown	Canada	robbrown@shaw.ca
+235	734	1	10/26/2011	Robert	Brown	Canada	robbrown@shaw.ca
+235	740	1	10/26/2011	Robert	Brown	Canada	robbrown@shaw.ca
+364	1554	1	6/1/2013	Robert	Brown	Canada	robbrown@shaw.ca
+364	1555	1	6/1/2013	Robert	Brown	Canada	robbrown@shaw.ca
+387	2257	1	9/3/2013	Robert	Brown	Canada	robbrown@shaw.ca
+387	2259	1	9/3/2013	Robert	Brown	Canada	robbrown@shaw.ca
+387	2261	1	9/3/2013	Robert	Brown	Canada	robbrown@shaw.ca
+387	2263	1	9/3/2013	Robert	Brown	Canada	robbrown@shaw.ca
+409	2963	1	12/6/2013	Robert	Brown	Canada	robbrown@shaw.ca
+409	2967	1	12/6/2013	Robert	Brown	Canada	robbrown@shaw.ca
+409	2971	1	12/6/2013	Robert	Brown	Canada	robbrown@shaw.ca
+409	2975	1	12/6/2013	Robert	Brown	Canada	robbrown@shaw.ca
+409	2979	1	12/6/2013	Robert	Brown	Canada	robbrown@shaw.ca
+409	2983	1	12/6/2013	Robert	Brown	Canada	robbrown@shaw.ca
+49	1623	1	8/6/2009	Edward	Francis	Canada	edfrancis@yachoo.ca
+49	1624	1	8/6/2009	Edward	Francis	Canada	edfrancis@yachoo.ca
+72	2326	1	11/8/2009	Edward	Francis	Canada	edfrancis@yachoo.ca
+72	2328	1	11/8/2009	Edward	Francis	Canada	edfrancis@yachoo.ca
+72	2330	1	11/8/2009	Edward	Francis	Canada	edfrancis@yachoo.ca
+72	2332	1	11/8/2009	Edward	Francis	Canada	edfrancis@yachoo.ca
+94	3032	1	2/10/2010	Edward	Francis	Canada	edfrancis@yachoo.ca
+94	3036	1	2/10/2010	Edward	Francis	Canada	edfrancis@yachoo.ca
+94	3040	1	2/10/2010	Edward	Francis	Canada	edfrancis@yachoo.ca
+94	3044	1	2/10/2010	Edward	Francis	Canada	edfrancis@yachoo.ca
+94	3048	1	2/10/2010	Edward	Francis	Canada	edfrancis@yachoo.ca
+94	3052	1	2/10/2010	Edward	Francis	Canada	edfrancis@yachoo.ca
+146	1367	1	10/1/2010	Edward	Francis	Canada	edfrancis@yachoo.ca
+267	1812	1	3/24/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+267	1814	1	3/24/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2141	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2150	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2159	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2168	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2177	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2186	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2195	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2204	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2213	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2222	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2231	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2240	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2249	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+278	2258	1	5/4/2012	Edward	Francis	Canada	edfrancis@yachoo.ca
+333	437	1	1/2/2013	Edward	Francis	Canada	edfrancis@yachoo.ca
+333	443	1	1/2/2013	Edward	Francis	Canada	edfrancis@yachoo.ca
+333	449	1	1/2/2013	Edward	Francis	Canada	edfrancis@yachoo.ca
+333	455	1	1/2/2013	Edward	Francis	Canada	edfrancis@yachoo.ca
+333	461	1	1/2/2013	Edward	Francis	Canada	edfrancis@yachoo.ca
+333	467	1	1/2/2013	Edward	Francis	Canada	edfrancis@yachoo.ca
+333	473	1	1/2/2013	Edward	Francis	Canada	edfrancis@yachoo.ca
+333	479	1	1/2/2013	Edward	Francis	Canada	edfrancis@yachoo.ca
+333	485	1	1/2/2013	Edward	Francis	Canada	edfrancis@yachoo.ca
+18	506	1	3/9/2009	Martha	Silk	Canada	marthasilk@gmail.com
+18	512	1	3/9/2009	Martha	Silk	Canada	marthasilk@gmail.com
+18	518	1	3/9/2009	Martha	Silk	Canada	marthasilk@gmail.com
+18	524	1	3/9/2009	Martha	Silk	Canada	marthasilk@gmail.com
+18	530	1	3/9/2009	Martha	Silk	Canada	marthasilk@gmail.com
+18	536	1	3/9/2009	Martha	Silk	Canada	marthasilk@gmail.com
+18	542	1	3/9/2009	Martha	Silk	Canada	marthasilk@gmail.com
+18	548	1	3/9/2009	Martha	Silk	Canada	marthasilk@gmail.com
+18	554	1	3/9/2009	Martha	Silk	Canada	marthasilk@gmail.com
+147	1368	1	10/14/2010	Martha	Silk	Canada	marthasilk@gmail.com
+147	1369	1	10/14/2010	Martha	Silk	Canada	marthasilk@gmail.com
+170	2071	1	1/16/2011	Martha	Silk	Canada	marthasilk@gmail.com
+170	2073	1	1/16/2011	Martha	Silk	Canada	marthasilk@gmail.com
+170	2075	1	1/16/2011	Martha	Silk	Canada	marthasilk@gmail.com
+170	2077	1	1/16/2011	Martha	Silk	Canada	marthasilk@gmail.com
+192	2777	1	4/20/2011	Martha	Silk	Canada	marthasilk@gmail.com
+192	2781	1	4/20/2011	Martha	Silk	Canada	marthasilk@gmail.com
+192	2785	1	4/20/2011	Martha	Silk	Canada	marthasilk@gmail.com
+192	2789	1	4/20/2011	Martha	Silk	Canada	marthasilk@gmail.com
+192	2793	1	4/20/2011	Martha	Silk	Canada	marthasilk@gmail.com
+192	2797	1	4/20/2011	Martha	Silk	Canada	marthasilk@gmail.com
+244	1112	1	12/9/2011	Martha	Silk	Canada	marthasilk@gmail.com
+365	1557	1	6/1/2013	Martha	Silk	Canada	marthasilk@gmail.com
+365	1559	1	6/1/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1886	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1895	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1904	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1913	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1922	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1931	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1940	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1949	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1958	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1967	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1976	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1985	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	1994	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+376	2003	1	7/12/2013	Martha	Silk	Canada	marthasilk@gmail.com
+50	1626	1	8/6/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+50	1628	1	8/6/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	1955	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	1964	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	1973	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	1982	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	1991	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	2000	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	2009	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	2018	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	2027	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	2036	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	2045	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	2054	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	2063	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+61	2072	1	9/16/2009	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+116	251	1	5/17/2010	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+116	257	1	5/17/2010	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+116	263	1	5/17/2010	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+116	269	1	5/17/2010	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+116	275	1	5/17/2010	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+116	281	1	5/17/2010	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+116	287	1	5/17/2010	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+116	293	1	5/17/2010	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+116	299	1	5/17/2010	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+245	1113	1	12/22/2011	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+245	1114	1	12/22/2011	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+268	1816	1	3/25/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+268	1818	1	3/25/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+268	1820	1	3/25/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+268	1822	1	3/25/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+290	2522	1	6/27/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+290	2526	1	6/27/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+290	2530	1	6/27/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+290	2534	1	6/27/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+290	2538	1	6/27/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+290	2542	1	6/27/2012	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+342	857	1	2/15/2013	Aaron	Mitchell	Canada	aaronmitchell@yahoo.ca
+27	926	1	4/22/2009	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+148	1371	1	10/14/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+148	1373	1	10/14/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1700	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1709	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1718	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1727	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1736	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1745	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1754	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1763	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1772	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1781	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1790	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1799	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1808	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+159	1817	1	11/24/2010	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+214	3499	1	7/25/2011	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+214	2	1	7/25/2011	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+214	8	1	7/25/2011	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+214	14	1	7/25/2011	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+214	20	1	7/25/2011	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+214	26	1	7/25/2011	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+214	32	1	7/25/2011	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+214	38	1	7/25/2011	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+214	44	1	7/25/2011	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+343	858	1	2/28/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+343	859	1	2/28/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+366	1561	1	6/2/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+366	1563	1	6/2/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+366	1565	1	6/2/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+366	1567	1	6/2/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+388	2267	1	9/4/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+388	2271	1	9/4/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+388	2275	1	9/4/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+388	2279	1	9/4/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+388	2283	1	9/4/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+388	2287	1	9/4/2013	Ellie	Sullivan	Canada	ellie.sullivan@shaw.ca
+28	927	1	5/5/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+28	928	1	5/5/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+51	1630	1	8/7/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+51	1632	1	8/7/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+51	1634	1	8/7/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+51	1636	1	8/7/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+73	2336	1	11/9/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+73	2340	1	11/9/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+73	2344	1	11/9/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+73	2348	1	11/9/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+73	2352	1	11/9/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+73	2356	1	11/9/2009	João	Fernandes	Portugal	jfernandes@yahoo.pt
+125	671	1	6/30/2010	João	Fernandes	Portugal	jfernandes@yahoo.pt
+246	1116	1	12/22/2011	João	Fernandes	Portugal	jfernandes@yahoo.pt
+246	1118	1	12/22/2011	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1445	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1454	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1463	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1472	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1481	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1490	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1499	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1508	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1517	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1526	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1535	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1544	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1553	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+257	1562	1	2/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+312	3244	1	10/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+312	3250	1	10/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+312	3256	1	10/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+312	3262	1	10/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+312	3268	1	10/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+312	3274	1	10/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+312	3280	1	10/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+312	3286	1	10/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+312	3292	1	10/1/2012	João	Fernandes	Portugal	jfernandes@yahoo.pt
+126	672	1	7/13/2010	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+126	673	1	7/13/2010	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+149	1375	1	10/15/2010	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+149	1377	1	10/15/2010	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+149	1379	1	10/15/2010	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+149	1381	1	10/15/2010	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+171	2081	1	1/17/2011	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+171	2085	1	1/17/2011	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+171	2089	1	1/17/2011	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+171	2093	1	1/17/2011	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+171	2097	1	1/17/2011	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+171	2101	1	1/17/2011	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+223	416	1	9/7/2011	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+344	861	1	2/28/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+344	863	1	2/28/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1190	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1199	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1208	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1217	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1226	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1235	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1244	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1253	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1262	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1271	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1280	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1289	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1298	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+355	1307	1	4/10/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+410	2989	1	12/9/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+410	2995	1	12/9/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+410	3001	1	12/9/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+410	3007	1	12/9/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+410	3013	1	12/9/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+410	3019	1	12/9/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+410	3025	1	12/9/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+410	3031	1	12/9/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+410	3037	1	12/9/2013	Madalena	Sampaio	Portugal	masampaio@sapo.pt
+29	930	1	5/5/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+29	932	1	5/5/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1259	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1268	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1277	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1286	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1295	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1304	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1313	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1322	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1331	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1340	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1349	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1358	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1367	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+40	1376	1	6/15/2009	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+95	3058	1	2/13/2010	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+95	3064	1	2/13/2010	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+95	3070	1	2/13/2010	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+95	3076	1	2/13/2010	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+95	3082	1	2/13/2010	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+95	3088	1	2/13/2010	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+95	3094	1	2/13/2010	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+95	3100	1	2/13/2010	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+95	3106	1	2/13/2010	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+224	417	1	9/20/2011	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+224	418	1	9/20/2011	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+247	1120	1	12/23/2011	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+247	1122	1	12/23/2011	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+247	1124	1	12/23/2011	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+247	1126	1	12/23/2011	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+269	1826	1	3/26/2012	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+269	1830	1	3/26/2012	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+269	1834	1	3/26/2012	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+269	1838	1	3/26/2012	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+269	1842	1	3/26/2012	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+269	1846	1	3/26/2012	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+321	161	1	11/14/2012	Hannah	Schneider	Germany	hannah.schneider@yahoo.de
+6	230	1	1/19/2009	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+127	675	1	7/13/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+127	677	1	7/13/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1004	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1013	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1022	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1031	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1040	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1049	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1058	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1067	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1076	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1085	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1094	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1103	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1112	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+138	1121	1	8/23/2010	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+193	2803	1	4/23/2011	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+193	2809	1	4/23/2011	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+193	2815	1	4/23/2011	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+193	2821	1	4/23/2011	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+193	2827	1	4/23/2011	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+193	2833	1	4/23/2011	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+193	2839	1	4/23/2011	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+193	2845	1	4/23/2011	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+193	2851	1	4/23/2011	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+322	162	1	11/27/2012	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+322	163	1	11/27/2012	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+345	865	1	3/1/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+345	867	1	3/1/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+345	869	1	3/1/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+345	871	1	3/1/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+367	1571	1	6/3/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+367	1575	1	6/3/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+367	1579	1	6/3/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+367	1583	1	6/3/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+367	1587	1	6/3/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+367	1591	1	6/3/2013	Fynn	Zimmermann	Germany	fzimmermann@yahoo.de
+7	231	1	2/1/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+7	232	1	2/1/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+30	934	1	5/6/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+30	936	1	5/6/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+30	938	1	5/6/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+30	940	1	5/6/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+52	1640	1	8/8/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+52	1644	1	8/8/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+52	1648	1	8/8/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+52	1652	1	8/8/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+52	1656	1	8/8/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+52	1660	1	8/8/2009	Niklas	Schröder	Germany	nschroder@surfeu.de
+104	3478	1	3/29/2010	Niklas	Schröder	Germany	nschroder@surfeu.de
+225	420	1	9/20/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+225	422	1	9/20/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	749	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	758	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	767	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	776	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	785	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	794	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	803	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	812	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	821	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	830	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	839	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	848	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	857	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+236	866	1	10/31/2011	Niklas	Schröder	Germany	nschroder@surfeu.de
+291	2548	1	6/30/2012	Niklas	Schröder	Germany	nschroder@surfeu.de
+291	2554	1	6/30/2012	Niklas	Schröder	Germany	nschroder@surfeu.de
+291	2560	1	6/30/2012	Niklas	Schröder	Germany	nschroder@surfeu.de
+291	2566	1	6/30/2012	Niklas	Schröder	Germany	nschroder@surfeu.de
+291	2572	1	6/30/2012	Niklas	Schröder	Germany	nschroder@surfeu.de
+291	2578	1	6/30/2012	Niklas	Schröder	Germany	nschroder@surfeu.de
+291	2584	1	6/30/2012	Niklas	Schröder	Germany	nschroder@surfeu.de
+291	2590	1	6/30/2012	Niklas	Schröder	Germany	nschroder@surfeu.de
+291	2596	1	6/30/2012	Niklas	Schröder	Germany	nschroder@surfeu.de
+105	3479	1	4/11/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+105	3480	1	4/11/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+128	679	1	7/14/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+128	681	1	7/14/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+128	683	1	7/14/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+128	685	1	7/14/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+150	1385	1	10/16/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+150	1389	1	10/16/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+150	1393	1	10/16/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+150	1397	1	10/16/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+150	1401	1	10/16/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+150	1405	1	10/16/2010	Camille	Bernard	France	camille.bernard@yahoo.fr
+202	3223	1	6/6/2011	Camille	Bernard	France	camille.bernard@yahoo.fr
+323	165	1	11/27/2012	Camille	Bernard	France	camille.bernard@yahoo.fr
+323	167	1	11/27/2012	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	494	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	503	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	512	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	521	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	530	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	539	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	548	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	557	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	566	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	575	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	584	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	593	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	602	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+334	611	1	1/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+389	2293	1	9/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+389	2299	1	9/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+389	2305	1	9/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+389	2311	1	9/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+389	2317	1	9/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+389	2323	1	9/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+389	2329	1	9/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+389	2335	1	9/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+389	2341	1	9/7/2013	Camille	Bernard	France	camille.bernard@yahoo.fr
+8	234	1	2/1/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+8	236	1	2/1/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	563	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	572	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	581	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	590	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	599	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	608	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	617	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	626	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	635	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	644	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	653	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	662	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	671	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+19	680	1	3/14/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+74	2362	1	11/12/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+74	2368	1	11/12/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+74	2374	1	11/12/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+74	2380	1	11/12/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+74	2386	1	11/12/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+74	2392	1	11/12/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+74	2398	1	11/12/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+74	2404	1	11/12/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+74	2410	1	11/12/2009	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+203	3224	1	6/19/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+203	3225	1	6/19/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+226	424	1	9/21/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+226	426	1	9/21/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+226	428	1	9/21/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+226	430	1	9/21/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+248	1130	1	12/24/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+248	1134	1	12/24/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+248	1138	1	12/24/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+248	1142	1	12/24/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+248	1146	1	12/24/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+248	1150	1	12/24/2011	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+300	2968	1	8/13/2012	Dominique	Lefebvre	France	dominiquelefebvre@gmail.com
+106	3482	1	4/11/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+106	3484	1	4/11/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	308	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	317	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	326	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	335	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	344	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	353	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	362	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	371	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	380	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	389	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	398	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	407	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	416	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+117	425	1	5/22/2010	Marc	Dubois	France	marc.dubois@hotmail.com
+172	2107	1	1/20/2011	Marc	Dubois	France	marc.dubois@hotmail.com
+172	2113	1	1/20/2011	Marc	Dubois	France	marc.dubois@hotmail.com
+172	2119	1	1/20/2011	Marc	Dubois	France	marc.dubois@hotmail.com
+172	2125	1	1/20/2011	Marc	Dubois	France	marc.dubois@hotmail.com
+172	2131	1	1/20/2011	Marc	Dubois	France	marc.dubois@hotmail.com
+172	2137	1	1/20/2011	Marc	Dubois	France	marc.dubois@hotmail.com
+172	2143	1	1/20/2011	Marc	Dubois	France	marc.dubois@hotmail.com
+172	2149	1	1/20/2011	Marc	Dubois	France	marc.dubois@hotmail.com
+172	2155	1	1/20/2011	Marc	Dubois	France	marc.dubois@hotmail.com
+301	2969	1	8/26/2012	Marc	Dubois	France	marc.dubois@hotmail.com
+301	2970	1	8/26/2012	Marc	Dubois	France	marc.dubois@hotmail.com
+324	169	1	11/28/2012	Marc	Dubois	France	marc.dubois@hotmail.com
+324	171	1	11/28/2012	Marc	Dubois	France	marc.dubois@hotmail.com
+324	173	1	11/28/2012	Marc	Dubois	France	marc.dubois@hotmail.com
+324	175	1	11/28/2012	Marc	Dubois	France	marc.dubois@hotmail.com
+346	875	1	3/2/2013	Marc	Dubois	France	marc.dubois@hotmail.com
+346	879	1	3/2/2013	Marc	Dubois	France	marc.dubois@hotmail.com
+346	883	1	3/2/2013	Marc	Dubois	France	marc.dubois@hotmail.com
+346	887	1	3/2/2013	Marc	Dubois	France	marc.dubois@hotmail.com
+346	891	1	3/2/2013	Marc	Dubois	France	marc.dubois@hotmail.com
+346	895	1	3/2/2013	Marc	Dubois	France	marc.dubois@hotmail.com
+398	2713	1	10/21/2013	Marc	Dubois	France	marc.dubois@hotmail.com
+9	238	1	2/2/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+9	240	1	2/2/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+9	242	1	2/2/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+9	244	1	2/2/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+31	944	1	5/7/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+31	948	1	5/7/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+31	952	1	5/7/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+31	956	1	5/7/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+31	960	1	5/7/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+31	964	1	5/7/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+83	2782	1	12/26/2009	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+204	3227	1	6/19/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+204	3229	1	6/19/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	53	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	62	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	71	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	80	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	89	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	98	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	107	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	116	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	125	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	134	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	143	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	152	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	161	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+215	170	1	7/30/2011	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+270	1852	1	3/29/2012	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+270	1858	1	3/29/2012	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+270	1864	1	3/29/2012	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+270	1870	1	3/29/2012	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+270	1876	1	3/29/2012	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+270	1882	1	3/29/2012	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+270	1888	1	3/29/2012	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+270	1894	1	3/29/2012	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+270	1900	1	3/29/2012	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+399	2714	1	11/3/2013	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+399	2715	1	11/3/2013	Wyatt	Girard	France	wyatt.girard@yahoo.fr
+84	2783	1	1/8/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+84	2784	1	1/8/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+107	3486	1	4/12/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+107	3488	1	4/12/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+107	3490	1	4/12/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+107	3492	1	4/12/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+129	689	1	7/15/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+129	693	1	7/15/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+129	697	1	7/15/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+129	701	1	7/15/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+129	705	1	7/15/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+129	709	1	7/15/2010	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+181	2527	1	3/5/2011	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+302	2972	1	8/26/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+302	2974	1	8/26/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3301	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3310	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3319	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3328	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3337	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3346	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3355	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3364	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3373	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3382	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3391	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3400	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3409	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+313	3418	1	10/6/2012	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+368	1597	1	6/6/2013	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+368	1603	1	6/6/2013	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+368	1609	1	6/6/2013	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+368	1615	1	6/6/2013	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+368	1621	1	6/6/2013	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+368	1627	1	6/6/2013	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+368	1633	1	6/6/2013	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+368	1639	1	6/6/2013	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+368	1645	1	6/6/2013	Isabelle	Mercier	France	isabelle_mercier@apple.fr
+53	1666	1	8/11/2009	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+53	1672	1	8/11/2009	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+53	1678	1	8/11/2009	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+53	1684	1	8/11/2009	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+53	1690	1	8/11/2009	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+53	1696	1	8/11/2009	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+53	1702	1	8/11/2009	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+53	1708	1	8/11/2009	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+53	1714	1	8/11/2009	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+182	2528	1	3/18/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+182	2529	1	3/18/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+205	3231	1	6/20/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+205	3233	1	6/20/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+205	3235	1	6/20/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+205	3237	1	6/20/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+227	434	1	9/22/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+227	438	1	9/22/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+227	442	1	9/22/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+227	446	1	9/22/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+227	450	1	9/22/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+227	454	1	9/22/2011	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+279	2272	1	5/12/2012	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+400	2717	1	11/3/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+400	2719	1	11/3/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3046	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3055	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3064	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3073	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3082	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3091	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3100	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3109	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3118	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3127	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3136	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3145	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3154	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+411	3163	1	12/14/2013	Terhi	Hämäläinen	Finland	terhi.hamalainen@apple.fi
+85	2786	1	1/8/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+85	2788	1	1/8/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3115	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3124	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3133	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3142	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3151	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3160	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3169	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3178	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3187	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3196	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3205	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3214	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3223	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+96	3232	1	2/18/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+151	1411	1	10/19/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+151	1417	1	10/19/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+151	1423	1	10/19/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+151	1429	1	10/19/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+151	1435	1	10/19/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+151	1441	1	10/19/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+151	1447	1	10/19/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+151	1453	1	10/19/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+151	1459	1	10/19/2010	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+280	2273	1	5/25/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+280	2274	1	5/25/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+303	2976	1	8/27/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+303	2978	1	8/27/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+303	2980	1	8/27/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+303	2982	1	8/27/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+325	179	1	11/29/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+325	183	1	11/29/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+325	187	1	11/29/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+325	191	1	11/29/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+325	195	1	11/29/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+325	199	1	11/29/2012	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+377	2017	1	7/20/2013	Ladislav	Kovács	Hungary	ladislav_kovacs@apple.hu
+10	248	1	2/3/2009	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+10	252	1	2/3/2009	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+10	256	1	2/3/2009	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+10	260	1	2/3/2009	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+10	264	1	2/3/2009	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+10	268	1	2/3/2009	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+62	2086	1	9/24/2009	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+183	2531	1	3/18/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+183	2533	1	3/18/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2860	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2869	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2878	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2887	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2896	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2905	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2914	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2923	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2932	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2941	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2950	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2959	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2968	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+194	2977	1	4/28/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+249	1156	1	12/27/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+249	1162	1	12/27/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+249	1168	1	12/27/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+249	1174	1	12/27/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+249	1180	1	12/27/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+249	1186	1	12/27/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+249	1192	1	12/27/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+249	1198	1	12/27/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+249	1204	1	12/27/2011	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+378	2018	1	8/2/2013	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+378	2019	1	8/2/2013	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+401	2721	1	11/4/2013	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+401	2723	1	11/4/2013	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+401	2725	1	11/4/2013	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+401	2727	1	11/4/2013	Hugh	O'Reilly	Ireland	hughoreilly@apple.ie
+63	2087	1	10/7/2009	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+63	2088	1	10/7/2009	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+86	2790	1	1/9/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+86	2792	1	1/9/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+86	2794	1	1/9/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+86	2796	1	1/9/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+108	3496	1	4/13/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+108	3500	1	4/13/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+108	1	1	4/13/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+108	5	1	4/13/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+108	9	1	4/13/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+108	13	1	4/13/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+160	1831	1	12/2/2010	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+281	2276	1	5/25/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+281	2278	1	5/25/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2605	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2614	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2623	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2632	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2641	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2650	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2659	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2668	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2677	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2686	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2695	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2704	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2713	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+292	2722	1	7/5/2012	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+347	901	1	3/5/2013	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+347	907	1	3/5/2013	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+347	913	1	3/5/2013	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+347	919	1	3/5/2013	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+347	925	1	3/5/2013	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+347	931	1	3/5/2013	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+347	937	1	3/5/2013	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+347	943	1	3/5/2013	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+347	949	1	3/5/2013	Lucas	Mancini	Italy	lucas.mancini@yahoo.it
+32	970	1	5/10/2009	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+32	976	1	5/10/2009	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+32	982	1	5/10/2009	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+32	988	1	5/10/2009	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+32	994	1	5/10/2009	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+32	1000	1	5/10/2009	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+32	1006	1	5/10/2009	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+32	1012	1	5/10/2009	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+32	1018	1	5/10/2009	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+161	1832	1	12/15/2010	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+161	1833	1	12/15/2010	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+184	2535	1	3/19/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+184	2537	1	3/19/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+184	2539	1	3/19/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+184	2541	1	3/19/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+206	3241	1	6/21/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+206	3245	1	6/21/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+206	3249	1	6/21/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+206	3253	1	6/21/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+206	3257	1	6/21/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+206	3261	1	6/21/2011	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+258	1576	1	2/9/2012	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+379	2021	1	8/2/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+379	2023	1	8/2/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2350	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2359	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2368	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2377	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2386	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2395	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2404	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2413	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2422	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2431	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2440	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2449	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2458	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+390	2467	1	9/12/2013	Johannes	Van der Berg	Netherlands	johavanderberg@yahoo.nl
+64	2090	1	10/7/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+64	2092	1	10/7/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2419	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2428	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2437	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2446	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2455	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2464	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2473	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2482	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2491	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2500	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2509	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2518	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2527	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+75	2536	1	11/17/2009	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+130	715	1	7/18/2010	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+130	721	1	7/18/2010	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+130	727	1	7/18/2010	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+130	733	1	7/18/2010	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+130	739	1	7/18/2010	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+130	745	1	7/18/2010	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+130	751	1	7/18/2010	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+130	757	1	7/18/2010	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+130	763	1	7/18/2010	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+259	1577	1	2/22/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+259	1578	1	2/22/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+282	2280	1	5/26/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+282	2282	1	5/26/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+282	2284	1	5/26/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+282	2286	1	5/26/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+304	2986	1	8/28/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+304	2990	1	8/28/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+304	2994	1	8/28/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+304	2998	1	8/28/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+304	3002	1	8/28/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+304	3006	1	8/28/2012	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+356	1321	1	4/18/2013	Stanisław	Wójcik	Poland	stanisław.wójcik@wp.pl
+41	1390	1	6/23/2009	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+162	1835	1	12/15/2010	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+162	1837	1	12/15/2010	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2164	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2173	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2182	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2191	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2200	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2209	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2218	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2227	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2236	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2245	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2254	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2263	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2272	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+173	2281	1	1/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+228	460	1	9/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+228	466	1	9/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+228	472	1	9/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+228	478	1	9/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+228	484	1	9/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+228	490	1	9/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+228	496	1	9/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+228	502	1	9/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+228	508	1	9/25/2011	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+357	1322	1	5/1/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+357	1323	1	5/1/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+380	2025	1	8/3/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+380	2027	1	8/3/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+380	2029	1	8/3/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+380	2031	1	8/3/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+402	2731	1	11/5/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+402	2735	1	11/5/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+402	2739	1	11/5/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+402	2743	1	11/5/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+402	2747	1	11/5/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+402	2751	1	11/5/2013	Enrique	Muñoz	Spain	enrique_munoz@yahoo.es
+42	1391	1	7/6/2009	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+42	1392	1	7/6/2009	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+65	2094	1	10/8/2009	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+65	2096	1	10/8/2009	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+65	2098	1	10/8/2009	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+65	2100	1	10/8/2009	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+87	2800	1	1/10/2010	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+87	2804	1	1/10/2010	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+87	2808	1	1/10/2010	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+87	2812	1	1/10/2010	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+87	2816	1	1/10/2010	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+87	2820	1	1/10/2010	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+139	1135	1	8/31/2010	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+260	1580	1	2/22/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+260	1582	1	2/22/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1909	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1918	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1927	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1936	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1945	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1954	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1963	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1972	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1981	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1990	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	1999	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	2008	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	2017	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+271	2026	1	4/3/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+326	205	1	12/2/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+326	211	1	12/2/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+326	217	1	12/2/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+326	223	1	12/2/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+326	229	1	12/2/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+326	235	1	12/2/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+326	241	1	12/2/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+326	247	1	12/2/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+326	253	1	12/2/2012	Joakim	Johansson	Sweden	joakim.johansson@yahoo.se
+11	274	1	2/6/2009	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+11	280	1	2/6/2009	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+11	286	1	2/6/2009	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+11	292	1	2/6/2009	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+11	298	1	2/6/2009	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+11	304	1	2/6/2009	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+11	310	1	2/6/2009	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+11	316	1	2/6/2009	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+11	322	1	2/6/2009	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+140	1136	1	9/13/2010	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+140	1137	1	9/13/2010	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+163	1839	1	12/16/2010	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+163	1841	1	12/16/2010	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+163	1843	1	12/16/2010	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+163	1845	1	12/16/2010	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+185	2545	1	3/20/2011	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+185	2549	1	3/20/2011	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+185	2553	1	3/20/2011	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+185	2557	1	3/20/2011	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+185	2561	1	3/20/2011	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+185	2565	1	3/20/2011	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+237	880	1	11/8/2011	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+358	1325	1	5/1/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+358	1327	1	5/1/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1654	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1663	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1672	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1681	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1690	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1699	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1708	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1717	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1726	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1735	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1744	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1753	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1762	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+369	1771	1	6/11/2013	Emma	Jones	United Kingdom	emma_jones@hotmail.com
+43	1394	1	7/6/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+43	1396	1	7/6/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1723	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1732	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1741	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1750	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1759	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1768	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1777	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1786	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1795	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1804	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1813	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1822	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1831	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+54	1840	1	8/16/2009	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+109	19	1	4/16/2010	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+109	25	1	4/16/2010	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+109	31	1	4/16/2010	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+109	37	1	4/16/2010	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+109	43	1	4/16/2010	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+109	49	1	4/16/2010	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+109	55	1	4/16/2010	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+109	61	1	4/16/2010	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+109	67	1	4/16/2010	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+238	881	1	11/21/2011	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+238	882	1	11/21/2011	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+261	1584	1	2/23/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+261	1586	1	2/23/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+261	1588	1	2/23/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+261	1590	1	2/23/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+283	2290	1	5/27/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+283	2294	1	5/27/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+283	2298	1	5/27/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+283	2302	1	5/27/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+283	2306	1	5/27/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+283	2310	1	5/27/2012	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+335	625	1	1/15/2013	Phil	Hughes	United Kingdom	phil.hughes@gmail.com
+20	694	1	3/22/2009	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+141	1139	1	9/13/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+141	1141	1	9/13/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1468	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1477	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1486	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1495	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1504	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1513	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1522	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1531	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1540	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1549	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1558	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1567	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1576	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+152	1585	1	10/24/2010	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+207	3267	1	6/24/2011	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+207	3273	1	6/24/2011	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+207	3279	1	6/24/2011	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+207	3285	1	6/24/2011	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+207	3291	1	6/24/2011	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+207	3297	1	6/24/2011	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+207	3303	1	6/24/2011	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+207	3309	1	6/24/2011	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+207	3315	1	6/24/2011	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+336	626	1	1/28/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+336	627	1	1/28/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+359	1329	1	5/2/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+359	1331	1	5/2/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+359	1333	1	5/2/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+359	1335	1	5/2/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+381	2035	1	8/4/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+381	2039	1	8/4/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+381	2043	1	8/4/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+381	2047	1	8/4/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+381	2051	1	8/4/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+381	2055	1	8/4/2013	Steve	Murray	United Kingdom	steve.murray@yahoo.uk
+21	695	1	4/4/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+21	696	1	4/4/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+44	1398	1	7/7/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+44	1400	1	7/7/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+44	1402	1	7/7/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+44	1404	1	7/7/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+66	2104	1	10/9/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+66	2108	1	10/9/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+66	2112	1	10/9/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+66	2116	1	10/9/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+66	2120	1	10/9/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+66	2124	1	10/9/2009	Mark	Taylor	Australia	mark.taylor@yahoo.au
+118	439	1	5/30/2010	Mark	Taylor	Australia	mark.taylor@yahoo.au
+239	884	1	11/21/2011	Mark	Taylor	Australia	mark.taylor@yahoo.au
+239	886	1	11/21/2011	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1213	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1222	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1231	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1240	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1249	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1258	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1267	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1276	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1285	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1294	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1303	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1312	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1321	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+250	1330	1	1/1/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+305	3012	1	8/31/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+305	3018	1	8/31/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+305	3024	1	8/31/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+305	3030	1	8/31/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+305	3036	1	8/31/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+305	3042	1	8/31/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+305	3048	1	8/31/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+305	3054	1	8/31/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+305	3060	1	8/31/2012	Mark	Taylor	Australia	mark.taylor@yahoo.au
+119	440	1	6/12/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+119	441	1	6/12/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+142	1143	1	9/14/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+142	1145	1	9/14/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+142	1147	1	9/14/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+142	1149	1	9/14/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+164	1849	1	12/17/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+164	1853	1	12/17/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+164	1857	1	12/17/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+164	1861	1	12/17/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+164	1865	1	12/17/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+164	1869	1	12/17/2010	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+216	184	1	8/7/2011	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+337	629	1	1/28/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+337	631	1	1/28/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	958	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	967	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	976	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	985	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	994	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	1003	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	1012	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	1021	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	1030	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	1039	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	1048	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	1057	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	1066	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+348	1075	1	3/10/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+403	2757	1	11/8/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+403	2763	1	11/8/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+403	2769	1	11/8/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+403	2775	1	11/8/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+403	2781	1	11/8/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+403	2787	1	11/8/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+403	2793	1	11/8/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+403	2799	1	11/8/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+403	2805	1	11/8/2013	Diego	Gutiérrez	Argentina	diego.gutierrez@yahoo.ar
+22	698	1	4/4/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+22	700	1	4/4/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1027	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1036	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1045	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1054	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1063	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1072	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1081	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1090	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1099	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1108	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1117	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1126	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1135	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+33	1144	1	5/15/2009	Luis	Rojas	Chile	luisrojas@yahoo.cl
+88	2826	1	1/13/2010	Luis	Rojas	Chile	luisrojas@yahoo.cl
+88	2832	1	1/13/2010	Luis	Rojas	Chile	luisrojas@yahoo.cl
+88	2838	1	1/13/2010	Luis	Rojas	Chile	luisrojas@yahoo.cl
+88	2844	1	1/13/2010	Luis	Rojas	Chile	luisrojas@yahoo.cl
+88	2850	1	1/13/2010	Luis	Rojas	Chile	luisrojas@yahoo.cl
+88	2856	1	1/13/2010	Luis	Rojas	Chile	luisrojas@yahoo.cl
+88	2862	1	1/13/2010	Luis	Rojas	Chile	luisrojas@yahoo.cl
+88	2868	1	1/13/2010	Luis	Rojas	Chile	luisrojas@yahoo.cl
+88	2874	1	1/13/2010	Luis	Rojas	Chile	luisrojas@yahoo.cl
+217	185	1	8/20/2011	Luis	Rojas	Chile	luisrojas@yahoo.cl
+217	186	1	8/20/2011	Luis	Rojas	Chile	luisrojas@yahoo.cl
+240	888	1	11/22/2011	Luis	Rojas	Chile	luisrojas@yahoo.cl
+240	890	1	11/22/2011	Luis	Rojas	Chile	luisrojas@yahoo.cl
+240	892	1	11/22/2011	Luis	Rojas	Chile	luisrojas@yahoo.cl
+240	894	1	11/22/2011	Luis	Rojas	Chile	luisrojas@yahoo.cl
+262	1594	1	2/24/2012	Luis	Rojas	Chile	luisrojas@yahoo.cl
+262	1598	1	2/24/2012	Luis	Rojas	Chile	luisrojas@yahoo.cl
+262	1602	1	2/24/2012	Luis	Rojas	Chile	luisrojas@yahoo.cl
+262	1606	1	2/24/2012	Luis	Rojas	Chile	luisrojas@yahoo.cl
+262	1610	1	2/24/2012	Luis	Rojas	Chile	luisrojas@yahoo.cl
+262	1614	1	2/24/2012	Luis	Rojas	Chile	luisrojas@yahoo.cl
+314	3432	1	10/14/2012	Luis	Rojas	Chile	luisrojas@yahoo.cl
+120	443	1	6/12/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+120	445	1	6/12/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	772	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	781	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	790	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	799	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	808	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	817	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	826	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	835	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	844	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	853	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	862	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	871	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	880	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+131	889	1	7/23/2010	Manoj	Pareek	India	manoj.pareek@rediff.com
+186	2571	1	3/23/2011	Manoj	Pareek	India	manoj.pareek@rediff.com
+186	2577	1	3/23/2011	Manoj	Pareek	India	manoj.pareek@rediff.com
+186	2583	1	3/23/2011	Manoj	Pareek	India	manoj.pareek@rediff.com
+186	2589	1	3/23/2011	Manoj	Pareek	India	manoj.pareek@rediff.com
+186	2595	1	3/23/2011	Manoj	Pareek	India	manoj.pareek@rediff.com
+186	2601	1	3/23/2011	Manoj	Pareek	India	manoj.pareek@rediff.com
+186	2607	1	3/23/2011	Manoj	Pareek	India	manoj.pareek@rediff.com
+186	2613	1	3/23/2011	Manoj	Pareek	India	manoj.pareek@rediff.com
+186	2619	1	3/23/2011	Manoj	Pareek	India	manoj.pareek@rediff.com
+315	3433	1	10/27/2012	Manoj	Pareek	India	manoj.pareek@rediff.com
+315	3434	1	10/27/2012	Manoj	Pareek	India	manoj.pareek@rediff.com
+338	633	1	1/29/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+338	635	1	1/29/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+338	637	1	1/29/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+338	639	1	1/29/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+360	1339	1	5/3/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+360	1343	1	5/3/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+360	1347	1	5/3/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+360	1351	1	5/3/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+360	1355	1	5/3/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+360	1359	1	5/3/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+412	3177	1	12/22/2013	Manoj	Pareek	India	manoj.pareek@rediff.com
+23	702	1	4/5/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+23	704	1	4/5/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+23	706	1	4/5/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+23	708	1	4/5/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+45	1408	1	7/8/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+45	1412	1	7/8/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+45	1416	1	7/8/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+45	1420	1	7/8/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+45	1424	1	7/8/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+45	1428	1	7/8/2009	Puja	Srivastava	India	puja_srivastava@yahoo.in
+97	3246	1	2/26/2010	Puja	Srivastava	India	puja_srivastava@yahoo.in
+218	188	1	8/20/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+218	190	1	8/20/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	517	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	526	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	535	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	544	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	553	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	562	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	571	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	580	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	589	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	598	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	607	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	616	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	625	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+229	634	1	9/30/2011	Puja	Srivastava	India	puja_srivastava@yahoo.in
+284	2316	1	5/30/2012	Puja	Srivastava	India	puja_srivastava@yahoo.in
+284	2322	1	5/30/2012	Puja	Srivastava	India	puja_srivastava@yahoo.in
+284	2328	1	5/30/2012	Puja	Srivastava	India	puja_srivastava@yahoo.in
+284	2334	1	5/30/2012	Puja	Srivastava	India	puja_srivastava@yahoo.in
+284	2340	1	5/30/2012	Puja	Srivastava	India	puja_srivastava@yahoo.in
+284	2346	1	5/30/2012	Puja	Srivastava	India	puja_srivastava@yahoo.in
+284	2352	1	5/30/2012	Puja	Srivastava	India	puja_srivastava@yahoo.in
+284	2358	1	5/30/2012	Puja	Srivastava	India	puja_srivastava@yahoo.in
+284	2364	1	5/30/2012	Puja	Srivastava	India	puja_srivastava@yahoo.in
